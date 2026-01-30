@@ -1,0 +1,10 @@
+London Bike Analysis
+:: 1 :: Python 
+
+
+
+:: 2 :: Tableau
+- 1 - Total Bike Rides
+- 2 - Moving average
+- 3 - Temperature (Heatmap)
+- 4 - 
