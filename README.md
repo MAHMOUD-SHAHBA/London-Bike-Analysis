@@ -50,6 +50,7 @@ The goal is to uncover actionable insights for **optimizing bike allocation** an
 - **Map Visualization:** Bike station usage (if latitude/longitude available)
 
 **Filters included:** Year, Season, Weather, Weekday/Weekend
+Tableau Public Dashboard: [View Dashboard Online](https://public.tableau.com/newWorkbook/e0ed7441-1852-4f4e-9774-ecd3f4a418d0#1)
 
 ---
 
